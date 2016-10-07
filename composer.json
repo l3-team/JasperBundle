@@ -1,0 +1,22 @@
+{
+    "name": "l3/jasper-bundle",
+    "type": "symfony-bundle",
+    "description": "Use jasper reports",
+    "authors": [
+        {
+            "name": "Benoît Delmotte",
+            "email": "benoit.delmotte@univ-lille3.fr"
+        },
+	{
+            "name": "Mathieu Hétru",
+            "email": "mathieu.hetru@univ-lille3.fr"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "jaspersoft/rest-client": "~2.0"
+    },
+    "autoload": {
+        "psr-4":  {"l3\\JasperBundle\\": ""}
+    }
+}

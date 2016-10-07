@@ -1,0 +1,5 @@
+services:
+    l3_jasper.report:
+        class: l3\JasperBundle\Report\Report
+#        class:     l3\JasperBundle\Controller\JasperController
+#        arguments: [@service_container]
