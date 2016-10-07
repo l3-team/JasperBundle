@@ -3,6 +3,7 @@
     "type": "symfony-bundle",
     "description": "Use jasper reports",
     "homepage": "https://github.com/mhetru/JasperBundle",
+    "license": "(c) Copyright Universite Lille3 - Charles de Gaulle",
     "authors": [
         {
             "name": "Benoît Delmotte",
