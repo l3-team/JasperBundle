@@ -2,6 +2,7 @@
     "name": "l3/jasper-bundle",
     "type": "symfony-bundle",
     "description": "Use jasper reports",
+    "homepage": "https://github.com/mhetru/JasperBundle",
     "authors": [
         {
             "name": "Benoît Delmotte",
