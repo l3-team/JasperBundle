@@ -6,14 +6,9 @@ Installation
 ---
 ________
 
-### composer.json
+Install the Bundle with this command :
 ```
-   "require": {
-       ...
-       "l3/jasper-bundle": "master"
-   }
-   
-   ...
+composer require l3/jasper-bundle:master
 ```
 
 Add parameters in config.yml
